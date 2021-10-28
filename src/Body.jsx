@@ -20,7 +20,7 @@ const books = []
         <div id="card" class="card" style={{ width: '14rem', height: '70px '}}>
             <img id="image" src="https://images-na.ssl-images-amazon.com/images/I/91rq1j7GYhL.jpg"   class="card-img-top" alt="..." />
             <div class="card-body">
-              <h3 class="card-title">Lord Of The Ring</h3>
+              <h3 class="card-title">Lord Of The Ringggg</h3>
               <p class="card-text">By J.R.R. Tolkien</p>
               <h5>Price: 15$</h5>
               <a href="#" class="btn btn-primary">Add to cart</a>
