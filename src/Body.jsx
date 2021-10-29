@@ -21,7 +21,7 @@ const books = []
             <img id="image" src="https://images-na.ssl-images-amazon.com/images/I/91rq1j7GYhL.jpg"   class="card-img-top" alt="..." />
             <div class="card-body">
               <h3 class="card-title">Lord Of The Rings</h3>
-              <p class="card-text">By J.R.R. Tolkien</p>
+              <p class="card-text">By J.R.R. Tolkiennn</p>
               <h5>Price: 15$</h5>
               <a href="#" class="btn btn-primary">Add to cart</a>
             </div>
