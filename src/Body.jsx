@@ -31,7 +31,7 @@ const books = []
             <div class="card-body">
               <h3 class="card-title">Positive Thoughts </h3>
               
-              <p class="card-text">By Jennifer Conner</p>
+              <p class="card-text">By Jennifer ConnNNNNer</p>
               <h5>Price: 11$</h5>
               <a href="#" class="btn btn-primary">Add to cart</a>
             </div>
